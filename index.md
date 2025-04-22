@@ -1,4 +1,480 @@
----
-title: Welcome to my blog
----
+<DOCTYPE>
+<html class="js sizes srcset webpalpha webp webp-alpha webp-animation webp-lossless pc" prefix="og: https://ogp.me/ns#" lang="en"><head><link rel="preconnect" href="https://duyn491kcolsw.cloudfront.net" crossorigin=""><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><meta charset="utf-8"><link rel="icon" href="https://duyn491kcolsw.cloudfront.net/files/2d/2di/2div3h.svg?ph=1df54f5159" type="image/svg+xml" sizes="any"><link rel="icon" href="https://duyn491kcolsw.cloudfront.net/files/07/07f/07fzq8.svg?ph=1df54f5159" type="image/svg+xml" sizes="16x16"><link rel="icon" href="https://duyn491kcolsw.cloudfront.net/files/1j/1j3/1j3767.ico?ph=1df54f5159"><link rel="apple-touch-icon" href="https://duyn491kcolsw.cloudfront.net/files/1j/1j3/1j3767.ico?ph=1df54f5159"><link rel="icon" href="https://duyn491kcolsw.cloudfront.net/files/1j/1j3/1j3767.ico?ph=1df54f5159">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>XKIPER</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="msapplication-tap-highlight" content="no">
+    
+    <link href="https://duyn491kcolsw.cloudfront.net/files/0r/0rk/0rklmm.css?ph=1df54f5159" media="print" rel="stylesheet">
+    <link href="https://duyn491kcolsw.cloudfront.net/files/1f/1f7/1f704g.css?ph=1df54f5159" media="screen and (min-width:100000em)" rel="stylesheet" data-type="cq" disabled="">
+    <link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/0r/0ra/0rajxc.css?ph=1df54f5159"><link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/0o/0og/0ogzq1.css?ph=1df54f5159" media="screen and (min-width:37.5em)"><link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/2w/2w4/2w4pdh.css?ph=1df54f5159" data-wnd_color_scheme_file=""><link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/1v/1vj/1vj0d3.css?ph=1df54f5159" data-wnd_color_scheme_desktop_file="" media="screen and (min-width:37.5em)"><link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/1o/1oq/1oqrvy.css?ph=1df54f5159" data-wnd_additive_color_file=""><link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/06/06a/06aai2.css?ph=1df54f5159" data-wnd_typography_file=""><link rel="stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/2m/2ml/2mlb6o.css?ph=1df54f5159" data-wnd_typography_desktop_file="" media="screen and (min-width:37.5em)"><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-542MMSL&amp;l=_gtmDataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-92DTJYQXGQ&amp;l=_gtmDataLayer&amp;cx=c&amp;gtm=45He4cc1v9127275577za200"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-542MMSL&amp;l=_gtmDataLayer"></script><script>(()=>{let e=!1;const t=()=>{if(!e&&window.innerWidth>=600){for(let e=0,t=document.querySelectorAll('head > link[href*="css"][media="screen and (min-width:37.5em)"]');e<t.length;e++)t[e].removeAttribute("disabled");e=!0}};t(),window.addEventListener("resize",t),"container"in document.documentElement.style||fetch(document.querySelector('head > link[data-type="cq"]').getAttribute("href")).then((e=>{e.text().then((e=>{const t=document.createElement("style");document.head.appendChild(t),t.appendChild(document.createTextNode(e)),import("https://duyn491kcolsw.cloudfront.net/client/js.polyfill/container-query-polyfill.modern.js").then((()=>{let e=setInterval((function(){document.body&&(document.body.classList.add("cq-polyfill-loaded"),clearInterval(e))}),100)}))}))}))})()</script>
+<link rel="preload stylesheet" href="https://duyn491kcolsw.cloudfront.net/files/22/22p/22p7r7.css?ph=1df54f5159" as="style"><meta name="description" content="Welcome to XKIPER-”All in One”, your one-stop destination for all your gaming needs. We understand the frustration of having to click through numerous ads just to download your favorite games, mods, applications, movies, wallpapers, and music. That's why we have created a website that provides direct links for all your downloads. Say goodbye to..."><meta name="keywords" content=""><meta name="generator" content="Webnode 2"><meta name="apple-mobile-web-app-capable" content="no"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="format-detection" content="telephone=no">
 
+<meta property="og:url" content="https://bl41z3.webnode.page/"><meta property="og:title" content="BL41Z3"><meta property="og:type" content="article"><meta property="og:description" content="Welcome to XKIPER-”All in One”, your one-stop destination for all your gaming needs. We understand the frustration of having to click through numerous ads just to download your favorite games, mods, applications, movies, wallpapers, and music. That's why we have created a website that provides direct links for all your downloads. Say goodbye to..."><meta property="og:site_name" content="BL41Z3"><meta property="og:image" content="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000017-e5299e529a/700/download.jpeg?ph=1df54f5159"><meta property="og:article:published_time" content="2024-12-29T00:00:00+0100"><meta name="robots" content="noindex,nofollow"><link rel="canonical" href="https://bl41z3.webnode.page/"><script>window.checkAndChangeSvgColor=function(c){try{var a=document.getElementById(c);if(a){c=[["border","borderColor"],["outline","outlineColor"],["color","color"]];for(var h,b,d,f=[],e=0,m=c.length;e<m;e++)if(h=window.getComputedStyle(a)[c[e][1]].replace(/\s/g,"").match(/^rgb[a]?\(([0-9]{1,3}),([0-9]{1,3}),([0-9]{1,3})/i)){b="";for(var g=1;3>=g;g++)b+=("0"+parseInt(h[g],10).toString(16)).slice(-2);"0"===b.charAt(0)&&(d=parseInt(b.substr(0,2),16),d=Math.max(16,d),b=d.toString(16)+b.slice(-4));f.push(c[e][0]+"="+b)}if(f.length){var k=a.getAttribute("data-src"),l=k+(0>k.indexOf("?")?"?":"&")+f.join("&");a.src!=l&&(a.src=l,a.outerHTML=a.outerHTML)}}}catch(n){}};</script><script>
+		window._gtmDataLayer = window._gtmDataLayer || [];
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+		j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+		(window,document,'script','_gtmDataLayer','GTM-542MMSL');</script></head>
+<body class="l wt-home ac-i ac-n l-sidebar l-d-none b-btn-fr b-btn-s-m b-btn-dso b-btn-bw-1 img-d-n img-t-u img-h-z line-solid b-e-ds lbox-l c-s-n wnd-free-bar-fixed wnd-fe desktop menu-ready"><noscript>
+				<iframe
+				 src="https://www.googletagmanager.com/ns.html?id=GTM-542MMSL"
+				 height="0"
+				 width="0"
+				 style="display:none;visibility:hidden"
+				 >
+				 </iframe>
+			</noscript>
+
+<div class="wnd-page l-page cs-autumn ac-c2185b ac-normal t-t-fs-l t-t-fw-m t-t-sp-n t-t-d-n t-s-fs-m t-s-fw-m t-s-sp-n t-s-d-n t-p-fs-m t-p-fw-m t-p-sp-n t-h-fs-l t-h-fw-m t-h-sp-n t-bq-fs-m t-bq-fw-m t-bq-sp-n t-bq-d-l t-btn-fw-l t-nav-fw-l t-pd-fw-l t-nav-tt-n">
+    <div class="l-w t cf t-11">
+        <div class="l-bg cf">
+            <div class="s-bg-l">
+                
+                
+            </div>
+        </div>
+        <header class="l-h cf">
+            <div class="sw cf">
+	<div class="sw-c cf"><section data-space="reset" class="s s-hn s-hn-sidebar wnd-mt-sidebar menu-default logo-sidebar sc-w hm-claims wnd-nav-border wnd-nav-sticky sticky">
+	<div class="s-w">
+		<div class="s-o">
+			<div class="s-bg">
+                <div class="s-bg-l">
+                    
+                    
+                </div>
+			</div>
+			<div class="h-w h-f wnd-fixed bgonscroll" style="top: 0px; position: fixed;">
+				<div class="s-i">
+					<div class="n-l">
+						<div class="s-c menu-nav">
+							<div class="logo-block">
+								<div class="b b-l logo logo-default logo-nb pt-serif logo-25 b-ls-s wnd-logo-with-text wnd-iar-1-1" id="wnd_LogoBlock_648872833" data-wnd_mvc_type="wnd.fe.LogoBlock">
+	<div class="b-l-c logo-content">
+		
+
+			<div class="b-l-image logo-image">
+				<div class="b-l-image-w logo-image-cell">
+                    <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000028-f311cf311f/450/37B4383E-AF29-4889-BAF6-C9607AE4F462.webp?ph=1df54f5159 314w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000028-f311cf311f/700/37B4383E-AF29-4889-BAF6-C9607AE4F462.webp?ph=1df54f5159 488w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000028-f311cf311f/37B4383E-AF29-4889-BAF6-C9607AE4F462.webp?ph=1df54f5159 714w" sizes="(min-width: 600px) 450px, (min-width: 360px) calc(100vw * 0.8), 100vw"><img src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000027-1153c1153e/37B4383E-AF29-4889-BAF6-C9607AE4F462.jpeg?ph=1df54f5159" alt="" width="714" height="1024" class="wnd-logo-img"></picture>
+				</div>
+			</div>
+
+			
+
+			<div class="b-l-br logo-br"></div>
+
+			<div class="b-l-text logo-text-wrapper">
+				<div class="b-l-text-w logo-text">
+					<span class="b-l-text-c logo-text-cell"><strong>XKIPER&nbsp;</strong></span>
+				</div>
+			</div>
+
+		
+	</div>
+</div>
+							</div>
+
+                            <div class="nav-wrapper">
+
+                                <div class="cart-block">
+                                    
+                                </div>
+
+                                
+
+                                <div id="menu-mobile">
+                                    <a href="#" id="menu-submit"><span></span>Menu</a>
+                                </div>
+
+                                <div id="menu-block">
+                                    <nav id="menu" data-type="vertical" style=""><div class="menu-font menu-wrapper">
+	<a href="#" class="menu-close" rel="nofollow" title="Close Menu"></a>
+	<ul class="level-1">
+		<li class="wnd-active   wnd-homepage">
+			<a class="menu-item" href="/home/"><span class="menu-item-text">Home</span></a>
+			
+		</li><li>
+			<a class="menu-item" href="/about-us/"><span class="menu-item-text">About us</span></a>
+			
+		</li><li>
+			<a class="menu-item" href="/services/"><span class="menu-item-text">Services</span></a>
+			
+		</li><li>
+			<a class="menu-item" href="/contact/"><span class="menu-item-text">Contact</span></a>
+			
+		</li>
+	</ul>
+	<span class="more-text">More</span>
+</div></nav>
+                                    <div class="scrollup"></div>
+                                    <div class="scrolldown"></div>
+                                </div>
+
+                            </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+</div>
+        </header>
+        <main class="l-m cf">
+            <div class="sw cf">
+	<div class="sw-c cf"><section class="s s-hm s-hm-claims cf sc-m wnd-background-image wnd-w-wide wnd-s-normal wnd-h-50 wnd-nh-m wnd-p-cc">
+	<div class="s-w cf">
+		<div class="s-o cf">
+			<div class="s-bg">
+                <div class="s-bg-l wnd-background-image  bgpos-center-center bgatt-scroll overlay-black">
+                    <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000010-b2b13b2b15/700/images-pexels-com-photos-275033-pexels-photo-275033-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000010-b2b13b2b15/images-pexels-com-photos-275033-pexels-photo-275033-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 1880w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000010-b2b13b2b15/images-pexels-com-photos-275033-pexels-photo-275033-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 2x" sizes="100vw"><img src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000004-56c8356c84/images-pexels-com-photos-275033-pexels-photo-275033-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.jpeg?ph=1df54f5159" width="1880" height="1144" alt="" fetchpriority="high"></picture>
+                    
+                </div>
+			</div>
+			<div class="h-c s-c">
+				<div class="h-c-b">
+					<div class="h-c-b-i">
+						<h1 class="claim cf"><span class="sit b claim-default claim-nb pt-serif claim-64">
+	<span class="sit-w"><span class="sit-c"><strong>XKIPER</strong></span></span>
+</span></h1>
+						<h3 class="claim cf"><span class="sit b claim-default claim-nb pt-serif claim-32">
+	<span class="sit-w"><span class="sit-c"><strong>"All in one"</strong></span></span>
+</span></h3>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-basic cf sc-w   wnd-w-wide wnd-s-higher wnd-h-auto">
+	<div class="s-w cf">
+		<div class="s-o s-fs cf">
+			<div class="s-bg cf">
+				<div class="s-bg-l">
+                    
+					
+				</div>
+			</div>
+			<div class="s-c s-fs cf">
+				<div class="ez cf wnd-no-cols">
+	<div class="ez-c"><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h1 class="wnd-align-center" data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57" data-cqc-62cbe8ea="c57" data-cqs-62cbe8ea="c57"><strong>&nbsp;About us</strong></h1>
+
+<p class="wnd-align-center wnd-offset-5" data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57" data-cqc-62cbe8ea="c57" data-cqs-62cbe8ea="c57">Welcome to XKIPER-”All in One”, your one-stop destination for all your gaming needs. We understand the frustration of having to click through numerous ads just to download your favorite games, mods, applications, movies, wallpapers, and music. That's why we have created a website that provides direct links for all your downloads. Say goodbye to annoying pop-ups and redirects, and say hello to a seamless and hassle-free download experience.</p>
+
+<p class="wnd-align-center wnd-offset-5" data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57" data-cqc-62cbe8ea="c57" data-cqs-62cbe8ea="c57"><a href="/about-us/">Read more</a></p>
+</div>
+</div></div>
+</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-basic cf sc-w   wnd-w-wide wnd-s-higher wnd-h-auto">
+	<div class="s-w cf">
+		<div class="s-o s-fs cf">
+			<div class="s-bg cf">
+				<div class="s-bg-l">
+                    
+					
+				</div>
+			</div>
+			<div class="s-c s-fs cf">
+				<div class="ez cf">
+	<div class="ez-c"><div class="cw cf">
+	<div class="cw-c cf"><div class="c cf" style="width:50%;">
+	<div class="c-c cf"><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:0;margin-right:0;" id="wnd_ImageBlock_614355176">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:56%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000018-c4188c418a/450/download.webp?ph=1df54f5159 300w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000018-c4188c418a/700/download.webp?ph=1df54f5159 300w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000018-c4188c418a/download.webp?ph=1df54f5159 300w" sizes="(min-width: 600px) calc(100vw * 0.75), 100vw"><img id="wnd_ImageBlock_614355176_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000017-e5299e529a/download.jpeg?ph=1df54f5159" alt="Watch all your favorite movies " width="300" height="168" loading="lazy" style="top:0%;left:0%;width:100%;height:100%;position:absolute;"></picture>
+			</div>
+		<div class="b-img-t">Watch all your favorite movies </div>
+	</div>
+</div></div>
+</div><div class="c cf" style="width:50%;">
+	<div class="c-c cf"><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h1><strong>WATCH MOVIES FOR FREE WITHOUT ADS</strong></h1>
+
+<p><a href="https://www.fmoviesto.lol/home?utm_source=LFT2023&amp;utm_medium=banner&amp;utm_campaign=uwp" rel="nofollow" target="_blank">Watch Movies</a><br></p><p>Step into a world where entertainment knows no boundaries, where your screens come alive with an endless array of captivating stories</p><p>&nbsp;<br></p><h1 class="text-center text-3xl md:text-6xl">Fmovies - Watch TV Shows Online, Watch Movies Online.</h1><p class="leading-normal sm:text-xl">Step into a world where entertainment knows no boundaries, where your screens come alive with an endless array of captivating stories.</p>Watch Now<h2 class="text-3xl sm:text-3xl">Features</h2><p class="leading-normal sm:text-lg">Fmovies offers a host of powerful features designed to enhance your movie-watching experience.</p><h3 class="">Vast Movie Library</h3><p class="text-muted-foreground">Thousands of movies, spanning diverse genres, languages, and decades.</p><h3 class="">Personalized Recommendations</h3><p class="text-muted-foreground">Suggesting movies and shows tailored to your taste.</p><h3 class="">Multiple Device Support</h3><p class="text-muted-foreground">Including smart TVs, smartphones, tablets, laptops, and gaming consoles.</p><h3 class="">Watch Party</h3><p class="text-muted-foreground">Watch together with friends. Chat and react in real time to the same stream.</p><h3 class="">High-Definition Streaming</h3><p class="text-muted-foreground">Stunning visuals with content available in 4K, Ultra HD and HDR.</p><h3 class="">Free</h3><p class="text-muted-foreground">Everything is free, no subscription or credit card required.</p>
+</div>
+</div></div>
+</div></div>
+</div></div>
+</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-basic cf sc-w   wnd-w-wide wnd-s-higher wnd-h-auto">
+	<div class="s-w cf">
+		<div class="s-o s-fs cf">
+			<div class="s-bg cf">
+				<div class="s-bg-l">
+                    
+					
+				</div>
+			</div>
+			<div class="s-c s-fs cf">
+				<div class="ez cf wnd-no-cols">
+	<div class="ez-c"><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; UHD Wallpapers&nbsp;&nbsp;</p></div>
+</div><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:28.25%;margin-right:28.25%;" id="wnd_ImageBlock_67126">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:56.14%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000020-35a4935a4c/450/sports-car-futuristic-mountain-sunset-scenery-digital-art-537%400%40i-thumb.webp?ph=1df54f5159 399w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000020-35a4935a4c/700/sports-car-futuristic-mountain-sunset-scenery-digital-art-537%400%40i-thumb.webp?ph=1df54f5159 399w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000020-35a4935a4c/sports-car-futuristic-mountain-sunset-scenery-digital-art-537%400%40i-thumb.webp?ph=1df54f5159 399w" sizes="100vw"><img id="wnd_ImageBlock_67126_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000019-1a29a1a29c/sports-car-futuristic-mountain-sunset-scenery-digital-art-537%400%40i-thumb.jpeg?ph=1df54f5159" alt="" width="399" height="224" loading="lazy" style="top:0%;left:0%;width:100%;height:100%;position:absolute;"></picture>
+			</div>
+		
+	</div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://www.uhdpaper.com/" rel="nofollow" target="_blank">https://www.uhdpaper.com/</a><br></p><p>Wallpapers in Ultra HD 4K 3840x2160, 8K 7680x4320 and 1920x1080 High Definition resolutions. Perfect screen background display for Desktop, iPhone, PC, Laptop, Computer, Android Phone, Smartphone, iMac, MacBook, Tablet, Mobile Device.</p><p><br class=""></p></div>
+</div></div>
+</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-basic cf sc-w   wnd-w-wide wnd-s-higher wnd-h-auto">
+	<div class="s-w cf">
+		<div class="s-o s-fs cf">
+			<div class="s-bg cf">
+				<div class="s-bg-l">
+                    
+					
+				</div>
+			</div>
+			<div class="s-c s-fs cf">
+				<div class="ez cf wnd-no-cols">
+	<div class="ez-c"><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h1 class="wnd-align-center" data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57"><strong>Download torrent games</strong></h1><div><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;CroTorrent</strong></div><p data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57"><a href="https://crotorrents.com/?_gl=1*5rtxq9*_gcl_au*MTgyMDczNjU2Ny4xNzM0OTg4NjI5" rel="nofollow" target="_blank">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;https://crotorrents.com/</a></p>
+</div>
+</div><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:14.3%;margin-right:14.3%;" id="wnd_ImageBlock_13115">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:47.18%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000022-bcc13bcc15/450/Screenshot%202024-09-01%20095814.webp?ph=1df54f5159 450w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000022-bcc13bcc15/700/Screenshot%202024-09-01%20095814.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000022-bcc13bcc15/Screenshot%202024-09-01%20095814.webp?ph=1df54f5159 1363w" sizes="100vw"><img id="wnd_ImageBlock_13115_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000021-a185ba185e/Screenshot%202024-09-01%20095814.png?ph=1df54f5159" alt="" width="1363" height="643" loading="lazy" style="top:0%;left:0%;width:100%;height:100%;position:absolute;"></picture>
+			</div>
+		
+	</div>
+</div></div>
+</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-basic cf sc-w   wnd-w-wide wnd-s-higher wnd-h-auto">
+	<div class="s-w cf">
+		<div class="s-o s-fs cf">
+			<div class="s-bg cf">
+				<div class="s-bg-l">
+                    
+					
+				</div>
+			</div>
+			<div class="s-c s-fs cf">
+				<div class="ez cf wnd-no-cols">
+	<div class="ez-c"><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h1 class="wnd-align-center"><strong>Download any video by pasting link</strong></h1><div><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; onlinevideodownloader<br></strong></div><div><strong><strong><br></strong></strong></div><p class="wnd-align-center"><a href="https://smallseotools.com/online-video-downloader/" rel="nofollow" target="_blank"><strong>https://smallseotools.com/online-video-downloader/</strong>&lt;br&gt;</a></p></div>
+</div><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:13.02%;margin-right:13.02%;" id="wnd_ImageBlock_65968">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:42.4%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000024-50d4150d43/450/Screenshot%202024-09-01%20102804.webp?ph=1df54f5159 450w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000024-50d4150d43/700/Screenshot%202024-09-01%20102804.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000024-50d4150d43/Screenshot%202024-09-01%20102804.webp?ph=1df54f5159 1323w" sizes="100vw"><img id="wnd_ImageBlock_65968_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000023-8260382606/Screenshot%202024-09-01%20102804.png?ph=1df54f5159" alt="" width="1323" height="561" loading="lazy" style="top:0%;left:0%;width:100%;height:100%;position:absolute;"></picture>
+			</div>
+		
+	</div>
+</div></div>
+</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-basic cf sc-w   wnd-w-wide wnd-s-higher wnd-h-auto">
+	<div class="s-w cf">
+		<div class="s-o s-fs cf">
+			<div class="s-bg cf">
+				<div class="s-bg-l">
+                    
+					
+				</div>
+			</div>
+			<div class="s-c s-fs cf">
+				<div class="ez cf">
+	<div class="ez-c"><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h1 class="wnd-align-center"><strong>Services</strong></h1>
+</div>
+</div><div class="cw cf">
+	<div class="cw-c cf"><div class="c cf" style="width:33.33%;">
+	<div class="c-c cf"><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:0;margin-right:0;" id="wnd_ImageBlock_176208909">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:66.68%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000009-5762457626/450/images-pexels-com-photos-442576-pexels-photo-442576-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 450w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000009-5762457626/700/images-pexels-com-photos-442576-pexels-photo-442576-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000009-5762457626/images-pexels-com-photos-442576-pexels-photo-442576-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 1880w" sizes="(min-width: 600px) calc(100vw * 0.75), 100vw"><img id="wnd_ImageBlock_176208909_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000002-9222a9222c/images-pexels-com-photos-442576-pexels-photo-442576-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.jpeg?ph=1df54f5159" alt="" width="1880" height="1253" loading="lazy" style="top:0%;left:-0.01%;width:100.03%;height:100%;position:absolute;"></picture>
+			</div>
+		
+	</div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h2 style="text-align:center" data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57">Game Mod Downloads: XKIPER offers a wide selection of game mods for popular titles such as Minecraft, Skyrim, and Grand Theft Auto. These mods are available for free and can enhance your gaming experience with new features, characters, and levels.</h2>
+
+<p style="text-align:center" data-cqc-8ffb61f2="c57" data-cqs-8ffb61f2="c57">XKIPER 's game mod downloads are a gamer's dream, providing endless opportunities for customization and innovation in some of the most beloved video games.</p>
+</div>
+</div></div>
+</div><div class="c cf" style="width:33.33%;">
+	<div class="c-c cf"><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:0;margin-right:0;" id="wnd_ImageBlock_372455724">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:69.06%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000011-2e4332e435/450/images-pexels-com-photos-194511-pexels-photo-194511-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 450w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000011-2e4332e435/700/images-pexels-com-photos-194511-pexels-photo-194511-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000011-2e4332e435/images-pexels-com-photos-194511-pexels-photo-194511-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 1880w" sizes="(min-width: 600px) calc(100vw * 0.75), 100vw"><img id="wnd_ImageBlock_372455724_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000005-983fa983fd/images-pexels-com-photos-194511-pexels-photo-194511-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.jpeg?ph=1df54f5159" alt="" width="1880" height="1253" loading="lazy" style="top:0%;left:-1.74%;width:103.48%;height:100%;position:absolute;"></picture>
+			</div>
+		
+	</div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h2 style="text-align:center">Movie Downloads: With BL41Z3, you can easily download movies in high quality without any ads or pop-ups. From the latest releases to classic films, our website has a vast collection of movies for you to choose from</h2>
+
+<p style="text-align:center">BL41Z3 offers a hassle-free and extensive selection of high-quality movie downloads, providing users with the opportunity to access both new and classic films without any interruptions.</p>
+</div>
+</div></div>
+</div><div class="c cf" style="width:33.34%;">
+	<div class="c-c cf"><div class="b-img b-img-default b b-s cf wnd-orientation-landscape wnd-type-image img-s-n" style="margin-left:0;margin-right:0;" id="wnd_ImageBlock_57103204">
+	<div class="b-img-w">
+		<div class="b-img-c" style="padding-bottom:69.6%;text-align:center;">
+            <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000012-6416464166/450/images-pexels-com-photos-1174746-pexels-photo-1174746-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 450w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000012-6416464166/700/images-pexels-com-photos-1174746-pexels-photo-1174746-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000012-6416464166/images-pexels-com-photos-1174746-pexels-photo-1174746-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 1880w" sizes="(min-width: 600px) calc(100vw * 0.75), 100vw"><img id="wnd_ImageBlock_57103204_img" src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000006-85c8f85c92/images-pexels-com-photos-1174746-pexels-photo-1174746-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.jpeg?ph=1df54f5159" alt="" width="1880" height="1253" loading="lazy" style="top:0%;left:-2.35%;width:104.71%;height:100%;position:absolute;"></picture>
+			</div>
+		
+	</div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h2 style="text-align:center">Technical Support and Troubleshooting</h2>
+
+<p style="text-align:center">Technical support and troubleshooting involve identifying and resolving problems with computer systems and software.</p>
+</div>
+</div></div>
+</div></div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h2>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ADU GYAMFI SENIOR HIGH SCHOOL</h2></div>
+</div><div class="b b-text cf">
+	<div class="b-c b-text-c b-s b-s-t60 b-s-b60 b-cs cf"><h3 class="wnd-align-center"><strong>2S6</strong></h3><p class="wnd-align-center"><span style="font-size: 24px;"><strong><em>XKIPER</em></strong></span></p><p class="wnd-align-center"><em><strong>TUPAC SHAKUR</strong></em></p><p class="wnd-align-center"><strong><strong>Arda Guler</strong></strong></p><p class="wnd-align-center"><strong><strong>Joseph Mourinho</strong></strong></p><p class="wnd-align-center"><strong><strong>RBB Sterling </strong></strong></p><p class="wnd-align-center"><strong><strong>Khoded</strong></strong></p><p class="wnd-align-center"><strong><strong>Trapper</strong></strong></p><p class="wnd-align-center"><strong><strong>Lil Fresh</strong></strong></p><p class="wnd-align-center"><strong><strong>Youngest Melly</strong></strong></p><p class="wnd-align-center"><strong><strong>Pedro</strong></strong></p><p class="wnd-align-center"><strong><strong>Sniper</strong></strong></p><p class="wnd-align-center"><strong><strong>Sensible</strong></strong></p><strong><br><h3><strong><br></strong></h3><p><br></p></strong></div>
+</div><div class="b b-s b-s-t150 b-s-b150 b-btn b-btn-2 wnd-align-center">
+	<div class="b-btn-c i-a">
+		<a class="b-btn-l" href="/services/">
+			<span class="b-btn-t">BACK TO THE TOP</span>
+		</a>
+	</div>
+</div><div class="b b-video b-s" style="margin-left:22.857142857143%;margin-right:22.857142857143%;">
+	<div class="b-c" style="position:relative;padding-bottom:56.25%;">
+		<iframe src="//www.youtube-nocookie.com/embed/phV6x-42vOg?wmode=opaque" style="position:absolute;top:0%;left:0%;width:100%;height:100%;" allowfullscreen="1" loading="lazy"></iframe>
+	</div>
+</div></div>
+</div>
+			</div>
+		</div>
+	</div>
+</section><section class="s s-hc s-hc-cta-claim cf sc-m wnd-background-image  wnd-w-wide wnd-s-higher wnd-h-auto wnd-p-cc">
+	<div class="s-w cf">
+		<div class="s-o cf">
+			<div class="s-bg cf">
+                <div class="s-bg-l wnd-background-image fx-none bgpos-center-center bgatt-scroll overlay-black">
+                    <picture><source type="image/webp" srcset="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000013-c2190c2192/700/images-pexels-com-photos-682933-pexels-photo-682933-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 700w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000013-c2190c2192/images-pexels-com-photos-682933-pexels-photo-682933-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 1847w, https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000013-c2190c2192/images-pexels-com-photos-682933-pexels-photo-682933-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.webp?ph=1df54f5159 2x" sizes="100vw"><img src="https://1df54f5159.cbaul-cdnwnd.com/66577e21a75af5ae6e83515097fb969b/200000003-8f5f58f5f7/images-pexels-com-photos-682933-pexels-photo-682933-auto-compress-cs-tinysrgb-dpr-2-h-650-w-940.jpeg?ph=1df54f5159" width="1847" height="1300" alt="" loading="lazy"></picture>
+                    
+                </div>
+			</div>
+			<div class="s-c cf">
+				<div class="s-hc-c">
+					<h2 class="s-hc-claim claim i-a"><span class="sit b claim-default claim-nb pt-serif claim-64">
+	<span class="sit-w"><span class="sit-c">Do You Need to Contact Us?</span></span>
+</span></h2>
+					<div class="b b-s b-s-t150 b-s-b150 b-btn b-btn-1">
+	<div class="b-btn-c i-a">
+		<a class="b-btn-l" href="/contact/">
+			<span class="b-btn-t">Get in touch</span>
+		</a>
+	</div>
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+</div>
+        </main>
+        <footer class="l-f cf">
+            <div class="sw cf">
+	<div class="sw-c cf"><section data-wn-border-element="s-f-border" class="s s-f s-f-basic s-f-simple wnd-w-wide wnd-s-higher sc-m">
+	<div class="s-w">
+		<div class="s-o">
+			<div class="s-bg">
+                <div class="s-bg-l">
+                    
+                    
+                </div>
+			</div>
+			<div class="s-c s-f-l-w s-f-border">
+				<div class="s-f-l b-s b-s-t0 b-s-b0">
+					<div class="s-f-l-c s-f-l-c-first">
+						<div class="s-f-cr"><span class="it b link">
+	<span class="it-c">Images provided by <a href="https://youtu.be/phV6x-42vOg">XKIPER</a></span>
+</span></div>
+						<div class="s-f-sf">
+                            <span class="sf b">
+<span class="sf-content sf-c link">Powered by <a href="https://www.webnode.com?utm_source=text&amp;utm_medium=footer&amp;utm_campaign=free3&amp;utm_content=wnd2" rel="noopener nofollow" target="_blank">Super Star(2PAC)</a></span>
+</span>
+                            <span class="sf-cbr link">
+    <a href="#" rel="nofollow">Cookies</a>
+</span>
+                            
+                            
+                            
+                        </div>
+					</div>
+					<div class="s-f-l-c s-f-l-c-last">
+						<div class="s-f-lang lang-select cf">
+	
+</div>
+					</div>
+                    <div class="s-f-l-c s-f-l-c-currency">
+                        <div class="s-f-ccy ccy-select cf">
+	
+</div>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section></div>
+</div>
+        </footer>
+    </div>
+    <div class="wnd-free-stripe cf">
+    
+</div>
+</div>
+<section class="cb cb-dark" id="cookiebar" style="">
+	<div class="cb-bar cb-scrollable">
+		
+        <div class="cb-close cb-close-basic" data-action="accept-necessary"></div>
+	</div>
+
+	<div class="cb-popup cb-light close">
+		<div class="cb-popup-c">
+			<div class="cb-popup-head">
+				<h3 class="cb-popup-title">Advanced settings</h3>
+				<p class="cb-popup-text">You can customize your cookie preferences here. Enable or disable the following categories and save your selection.</p>
+			</div>
+			<div class="cb-popup-options cb-scrollable">
+				<div class="cb-option">
+					<input class="cb-option-input" type="checkbox" id="necessary" name="necessary" readonly="readonly" disabled="disabled" checked="checked">
+                    <div class="cb-option-checkbox"></div>
+                    <label class="cb-option-label" for="necessary">Essential cookies</label>
+					<div class="cb-option-text"></div>
+				</div>
+			</div>
+			<div class="cb-popup-footer">
+				<button class="cb-button cb-save-popup" data-action="advanced-save">
+					<span class="cb-button-content">Save</span>
+				</button>
+			</div>
+			<div class="cb-close cb-close-popup" data-action="close"></div>
+		</div>
+	</div>
+</section>
+
+<script src="https://duyn491kcolsw.cloudfront.net/files/38/38e/38ekb4.js?ph=1df54f5159" crossorigin="anonymous" type="module"></script><script>document.querySelector(".wnd-fe")&&[...document.querySelectorAll(".c")].forEach((e=>{const t=e.querySelector(".b-text:only-child");t&&""===t.querySelector(".b-text-c").innerText&&e.classList.add("column-empty")}))</script>
+
+
+<script src="https://duyn491kcolsw.cloudfront.net/client.fe/js.compiled/lang.en.1453.js?ph=1df54f5159" crossorigin="anonymous"></script><script src="https://duyn491kcolsw.cloudfront.net/client.fe/js.compiled/compiled.multi.2-1769.js?ph=1df54f5159" crossorigin="anonymous"></script><script>var wnd = wnd || {};wnd.$data = {"image_content_items":{"wnd_ThumbnailBlock_1":{"id":"wnd_ThumbnailBlock_1","type":"wnd.pc.ThumbnailBlock"},"wnd_HeaderSection_header_main_115939106":{"id":"wnd_HeaderSection_header_main_115939106","type":"wnd.pc.HeaderSection"},"wnd_ImageBlock_694207006":{"id":"wnd_ImageBlock_694207006","type":"wnd.pc.ImageBlock"},"wnd_Section_default_926456118":{"id":"wnd_Section_default_926456118","type":"wnd.pc.Section"},"wnd_Section_default_83279593":{"id":"wnd_Section_default_83279593","type":"wnd.pc.Section"},"wnd_ImageBlock_176208909":{"id":"wnd_ImageBlock_176208909","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_372455724":{"id":"wnd_ImageBlock_372455724","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_57103204":{"id":"wnd_ImageBlock_57103204","type":"wnd.pc.ImageBlock"},"wnd_Section_cta_200370441":{"id":"wnd_Section_cta_200370441","type":"wnd.pc.Section"},"wnd_Section_text_image_637517882":{"id":"wnd_Section_text_image_637517882","type":"wnd.pc.Section"},"wnd_ImageBlock_614355176":{"id":"wnd_ImageBlock_614355176","type":"wnd.pc.ImageBlock"},"wnd_Section_default_724495986":{"id":"wnd_Section_default_724495986","type":"wnd.pc.Section"},"wnd_ImageBlock_67126":{"id":"wnd_ImageBlock_67126","type":"wnd.pc.ImageBlock"},"wnd_Section_default_908918699":{"id":"wnd_Section_default_908918699","type":"wnd.pc.Section"},"wnd_ImageBlock_13115":{"id":"wnd_ImageBlock_13115","type":"wnd.pc.ImageBlock"},"wnd_Section_default_513113698":{"id":"wnd_Section_default_513113698","type":"wnd.pc.Section"},"wnd_ImageBlock_65968":{"id":"wnd_ImageBlock_65968","type":"wnd.pc.ImageBlock"},"wnd_LogoBlock_648872833":{"id":"wnd_LogoBlock_648872833","type":"wnd.pc.LogoBlock"},"wnd_FooterSection_footer_842393312":{"id":"wnd_FooterSection_footer_842393312","type":"wnd.pc.FooterSection"}},"svg_content_items":{"wnd_ImageBlock_694207006":{"id":"wnd_ImageBlock_694207006","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_176208909":{"id":"wnd_ImageBlock_176208909","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_372455724":{"id":"wnd_ImageBlock_372455724","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_57103204":{"id":"wnd_ImageBlock_57103204","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_614355176":{"id":"wnd_ImageBlock_614355176","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_67126":{"id":"wnd_ImageBlock_67126","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_13115":{"id":"wnd_ImageBlock_13115","type":"wnd.pc.ImageBlock"},"wnd_ImageBlock_65968":{"id":"wnd_ImageBlock_65968","type":"wnd.pc.ImageBlock"},"wnd_LogoBlock_648872833":{"id":"wnd_LogoBlock_648872833","type":"wnd.pc.LogoBlock"}},"content_items":[],"eshopSettings":{"ESHOP_SETTINGS_DISPLAY_PRICE_WITHOUT_VAT":false,"ESHOP_SETTINGS_DISPLAY_ADDITIONAL_VAT":false,"ESHOP_SETTINGS_DISPLAY_SHIPPING_COST":false},"project_info":{"isMultilanguage":false,"isMulticurrency":false,"eshop_tax_enabled":"0","country_code":"gh","contact_state":"GH","eshop_tax_type":"VAT","eshop_discounts":false,"graphQLURL":"https:\/\/bl41z3.webnode.page\/servers\/graphql\/","iubendaSettings":{"cookieBarCode":"","cookiePolicyCode":"","privacyPolicyCode":"","termsAndConditionsCode":""}}};</script><script>wnd.$system = {"fileSystemType":"aws_s3","localFilesPath":"https:\/\/bl41z3.webnode.page\/_files\/","awsS3FilesPath":"https:\/\/1df54f5159.cbaul-cdnwnd.com\/66577e21a75af5ae6e83515097fb969b\/","staticFiles":"https:\/\/duyn491kcolsw.cloudfront.net\/files","isCms":false,"staticCDNServers":["https:\/\/duyn491kcolsw.cloudfront.net\/"],"fileUploadAllowExtension":["jpg","jpeg","jfif","png","gif","bmp","ico","svg","webp","tiff","pdf","doc","docx","ppt","pptx","pps","ppsx","odt","xls","xlsx","txt","rtf","mp3","wma","wav","ogg","amr","flac","m4a","3gp","avi","wmv","mov","mpg","mkv","mp4","mpeg","m4v","swf","gpx","stl","csv","xml","txt","dxf","dwg","iges","igs","step","stp"],"maxUserFormFileLimit":4194304,"frontendLanguage":"en","backendLanguage":"en","frontendLanguageId":"1","page":{"id":200000102,"identifier":"home","template":{"id":200000006,"styles":{"typography":"t-11_new","typoTitleSizes":"t-t-fs-l","typoTitleWeights":"t-t-fw-m","typoTitleSpacings":"t-t-sp-n","typoTitleDecorations":"t-t-d-n","typoSubtitleSizes":"t-s-fs-m","typoSubtitleWeights":"t-s-fw-m","typoSubtitleSpacings":"t-s-sp-n","typoSubtitleDecorations":"t-s-d-n","typoParagraphSizes":"t-p-fs-m","typoParagraphWeights":"t-p-fw-m","typoParagraphSpacings":"t-p-sp-n","typoHeadingSizes":"t-h-fs-l","typoHeadingWeights":"t-h-fw-m","typoHeadingSpacings":"t-h-sp-n","typoBlockquoteSizes":"t-bq-fs-m","typoBlockquoteWeights":"t-bq-fw-m","typoBlockquoteSpacings":"t-bq-sp-n","typoBlockquoteDecorations":"t-bq-d-l","scheme":"cs-autumn","additiveColor":"ac-c2185b ac-normal","acHeadings":false,"acSubheadings":false,"acIcons":true,"acOthers":false,"acMenu":true,"imageStyle":"img-d-n","imageHover":"img-h-z","imageTitle":"img-t-u","buttonStyle":"b-btn-fr","buttonSize":"b-btn-s-m","buttonDecoration":"b-btn-dso","buttonBorders":"b-btn-bw-1","lineStyle":"line-solid","eshopGridItemStyle":"b-e-ds","formStyle":"light","menuType":"","menuStyle":"menu-default","lightboxStyle":"lbox-l","columnSpaces":"c-s-n","sectionColor":"","sectionWidth":"wnd-w-wide","sectionSpace":"wnd-s-higher","layoutType":"l-sidebar","layoutDecoration":"l-d-none","buttonWeight":"t-btn-fw-l","menuWeight":"t-nav-fw-l","productWeight":"t-pd-fw-l","background":{"default":null},"backgroundSettings":{"default":""}}},"layout":"homepage","name":"Home","html_title":"","language":"en","langId":1,"isHomepage":true,"meta_description":null,"meta_keywords":null,"header_code":null,"footer_code":null,"styles":{"sectionColor":"sc-w","pageBased":{"navline":{"style":{"sectionColor":"sc-w","sectionWidth":"wnd-w-narrow","sectionHeight":"wnd-nh-l","background":{"position":"bgpos-top-center","attachment":"bgatt-fixed"}}}}},"countFormsEntries":[]},"listingsPrefix":"\/l\/","productPrefix":"\/p\/","cartPrefix":"\/cart\/","checkoutPrefix":"\/checkout\/","searchPrefix":"\/search\/","isCheckout":false,"isEshop":false,"hasBlog":false,"isProductDetail":false,"isListingDetail":false,"listing_page":[],"hasEshopAnalytics":false,"gTagId":null,"gAdsId":null,"format":{"be":{"DATE_TIME":{"mask":"%d\/%m\/%Y %H:%M","regexp":"^(((0?[1-9]|[1,2][0-9]|3[0,1])\\\/(0?[1-9]|1[0-2])\\\/[0-9]{1,4})(( [0-1][0-9]| 2[0-3]):[0-5][0-9])?|(([0-9]{4}(0[1-9]|1[0-2])(0[1-9]|[1,2][0-9]|3[0,1])(0[0-9]|1[0-9]|2[0-3])[0-5][0-9][0-5][0-9])))?$"},"DATE":{"mask":"%d\/%m\/%Y","regexp":"^((0?[1-9]|[1,2][0-9]|3[0,1])\\\/(0?[1-9]|1[0-2])\\\/[0-9]{1,4})$"},"CURRENCY":{"mask":{"point":".","thousands":",","decimals":2,"mask":"%s","zerofill":true}}},"fe":{"DATE_TIME":{"mask":"%d\/%m\/%Y %H:%M","regexp":"^(((0?[1-9]|[1,2][0-9]|3[0,1])\\\/(0?[1-9]|1[0-2])\\\/[0-9]{1,4})(( [0-1][0-9]| 2[0-3]):[0-5][0-9])?|(([0-9]{4}(0[1-9]|1[0-2])(0[1-9]|[1,2][0-9]|3[0,1])(0[0-9]|1[0-9]|2[0-3])[0-5][0-9][0-5][0-9])))?$"},"DATE":{"mask":"%d\/%m\/%Y","regexp":"^((0?[1-9]|[1,2][0-9]|3[0,1])\\\/(0?[1-9]|1[0-2])\\\/[0-9]{1,4})$"},"CURRENCY":{"mask":{"point":".","thousands":",","decimals":2,"mask":"%s","zerofill":true}}}},"e_product":null,"listing_item":null,"feReleasedFeatures":{"eshopPriceDisplaySettings":true,"dualCurrency":false,"HeurekaSatisfactionSurvey":true,"useOnlyDefaultFreeBar":true,"productAvailability":true},"labels":{"dualCurrency.fixedRate":"","invoicesGenerator.W2EshopInvoice.alreadyPayed":"Do not pay! - Already paid","invoicesGenerator.W2EshopInvoice.amount":"Quantity:","invoicesGenerator.W2EshopInvoice.contactInfo":"Contact information:","invoicesGenerator.W2EshopInvoice.couponCode":"Coupon code:","invoicesGenerator.W2EshopInvoice.customer":"Customer:","invoicesGenerator.W2EshopInvoice.dateOfIssue":"Date issued:","invoicesGenerator.W2EshopInvoice.dateOfTaxableSupply":"Date of taxable supply:","invoicesGenerator.W2EshopInvoice.dic":"VAT Reg No:","invoicesGenerator.W2EshopInvoice.discount":"Discount","invoicesGenerator.W2EshopInvoice.dueDate":"Due date:","invoicesGenerator.W2EshopInvoice.email":"Email:","invoicesGenerator.W2EshopInvoice.filenamePrefix":"Invoice-","invoicesGenerator.W2EshopInvoice.fiscalCode":"Fiscal code:","invoicesGenerator.W2EshopInvoice.freeShipping":"Free shipping","invoicesGenerator.W2EshopInvoice.ic":"Company ID:","invoicesGenerator.W2EshopInvoice.invoiceNo":"Invoice number","invoicesGenerator.W2EshopInvoice.invoiceNoTaxed":"Invoice - Tax invoice number","invoicesGenerator.W2EshopInvoice.notVatPayers":"Not VAT registered","invoicesGenerator.W2EshopInvoice.orderNo":"Order number:","invoicesGenerator.W2EshopInvoice.paymentPrice":"Payment method price:","invoicesGenerator.W2EshopInvoice.pec":"PEC:","invoicesGenerator.W2EshopInvoice.phone":"Phone:","invoicesGenerator.W2EshopInvoice.priceExTax":"Price excl. tax:","invoicesGenerator.W2EshopInvoice.priceIncludingTax":"Price incl. tax:","invoicesGenerator.W2EshopInvoice.product":"Product:","invoicesGenerator.W2EshopInvoice.productNr":"Product number:","invoicesGenerator.W2EshopInvoice.recipientCode":"Recipient code:","invoicesGenerator.W2EshopInvoice.shippingAddress":"Shipping address:","invoicesGenerator.W2EshopInvoice.shippingPrice":"Shipping price:","invoicesGenerator.W2EshopInvoice.subtotal":"Subtotal:","invoicesGenerator.W2EshopInvoice.sum":"Total:","invoicesGenerator.W2EshopInvoice.supplier":"Provider:","invoicesGenerator.W2EshopInvoice.tax":"Tax:","invoicesGenerator.W2EshopInvoice.total":"Total:","invoicesGenerator.W2EshopInvoice.web":"Web:","wnd.errorBandwidthStorage.description":"We apologize for any inconvenience. If you are the website owner, please log in to your account to learn how to get your website back online.","wnd.errorBandwidthStorage.heading":"This website is temporarily unavailable (or under maintenance)","wnd.es.CheckoutShippingService.correiosDeliveryWithSpecialConditions":"CEP de destino est\u00e1 sujeito a condi\u00e7\u00f5es especiais de entrega pela ECT e ser\u00e1 realizada com o acr\u00e9scimo de at\u00e9 7 (sete) dias \u00fateis ao prazo regular.","wnd.es.CheckoutShippingService.correiosWithoutHomeDelivery":"CEP de destino est\u00e1 temporariamente sem entrega domiciliar. A entrega ser\u00e1 efetuada na ag\u00eancia indicada no Aviso de Chegada que ser\u00e1 entregue no endere\u00e7o do destinat\u00e1rio","wnd.es.ProductEdit.unit.cm":"cm","wnd.es.ProductEdit.unit.floz":"fl oz","wnd.es.ProductEdit.unit.ft":"ft","wnd.es.ProductEdit.unit.ft2":"ft\u00b2","wnd.es.ProductEdit.unit.g":"g","wnd.es.ProductEdit.unit.gal":"gal","wnd.es.ProductEdit.unit.in":"in","wnd.es.ProductEdit.unit.inventoryQuantity":"pcs","wnd.es.ProductEdit.unit.inventorySize":"cm","wnd.es.ProductEdit.unit.inventorySize.cm":"cm","wnd.es.ProductEdit.unit.inventorySize.inch":"in","wnd.es.ProductEdit.unit.inventoryWeight":"kg","wnd.es.ProductEdit.unit.inventoryWeight.kg":"kg","wnd.es.ProductEdit.unit.inventoryWeight.lb":"lb","wnd.es.ProductEdit.unit.l":"l","wnd.es.ProductEdit.unit.m":"m","wnd.es.ProductEdit.unit.m2":"m\u00b2","wnd.es.ProductEdit.unit.m3":"m\u00b3","wnd.es.ProductEdit.unit.mg":"mg","wnd.es.ProductEdit.unit.ml":"ml","wnd.es.ProductEdit.unit.mm":"mm","wnd.es.ProductEdit.unit.oz":"oz","wnd.es.ProductEdit.unit.pcs":"pcs","wnd.es.ProductEdit.unit.pt":"pt","wnd.es.ProductEdit.unit.qt":"qt","wnd.es.ProductEdit.unit.yd":"yd","wnd.es.ProductList.inventory.outOfStock":"Out of stock","wnd.fe.CheckoutFi.creditCard":"Credit card","wnd.fe.CheckoutSelectMethodKlarnaPlaygroundItem":"{name} playground test","wnd.fe.CheckoutSelectMethodZasilkovnaItem.change":"Change pick up point","wnd.fe.CheckoutSelectMethodZasilkovnaItem.choose":"Choose your pick up point","wnd.fe.CheckoutSelectMethodZasilkovnaItem.error":"Please select a pick up point","wnd.fe.CheckoutZipField.brInvalid":"Please enter valid ZIP code in format XXXXX-XXX","wnd.fe.CookieBar.message":"This website uses cookies to provide the necessary site functionality and to improve your experience. By using our website, you agree to our privacy policy.","wnd.fe.FeFooter.createWebsite":"Create your website for free!","wnd.fe.FormManager.error.file.invalidExtOrCorrupted":"This file cannot be processed. Either the file has been corrupted or the extension doesn't match the format of the file.","wnd.fe.FormManager.error.file.notAllowedExtension":"File extension \u0022{EXTENSION}\u0022 is not allowed.","wnd.fe.FormManager.error.file.required":"Please choose a file to upload.","wnd.fe.FormManager.error.file.sizeExceeded":"Maximum size of the uploaded file is {SIZE} MB.","wnd.fe.FormManager.error.userChangePassword":"Passwords do not match","wnd.fe.FormManager.error.userLogin.inactiveAccount":"Your registration has not been approved yet, you cannot log in.","wnd.fe.FormManager.error.userLogin.invalidLogin":"Incorrect user name (email) or password!","wnd.fe.FreeBarBlock.buttonText":"Get started","wnd.fe.FreeBarBlock.longText":"This website was made with Webnode. \u003Cstrong\u003ECreate your own\u003C\/strong\u003E for free today!","wnd.fe.ListingData.shortMonthName.Apr":"Apr","wnd.fe.ListingData.shortMonthName.Aug":"Aug","wnd.fe.ListingData.shortMonthName.Dec":"Dec","wnd.fe.ListingData.shortMonthName.Feb":"Feb","wnd.fe.ListingData.shortMonthName.Jan":"Jan","wnd.fe.ListingData.shortMonthName.Jul":"Jul","wnd.fe.ListingData.shortMonthName.Jun":"Jun","wnd.fe.ListingData.shortMonthName.Mar":"Mar","wnd.fe.ListingData.shortMonthName.May":"May","wnd.fe.ListingData.shortMonthName.Nov":"Nov","wnd.fe.ListingData.shortMonthName.Oct":"Oct","wnd.fe.ListingData.shortMonthName.Sep":"Sep","wnd.fe.ShoppingCartManager.count.between2And4":"{COUNT} items","wnd.fe.ShoppingCartManager.count.moreThan5":"{COUNT} items","wnd.fe.ShoppingCartManager.count.one":"{COUNT} item","wnd.fe.ShoppingCartTable.label.itemsInStock":"Only {COUNT} pcs available in stock","wnd.fe.ShoppingCartTable.label.itemsInStock.between2And4":"Only {COUNT} pcs available in stock","wnd.fe.ShoppingCartTable.label.itemsInStock.moreThan5":"Only {COUNT} pcs available in stock","wnd.fe.ShoppingCartTable.label.itemsInStock.one":"Only {COUNT} pc available in stock","wnd.fe.ShoppingCartTable.label.outOfStock":"Out of stock","wnd.fe.UserBar.logOut":"Log Out","wnd.pc.BlogDetailPageZone.next":"Newer posts","wnd.pc.BlogDetailPageZone.previous":"Older posts","wnd.pc.ContactInfoBlock.placeholder.infoMail":"E.g. contact@example.com","wnd.pc.ContactInfoBlock.placeholder.infoPhone":"E.g. +44 020 1234 5678","wnd.pc.ContactInfoBlock.placeholder.infoText":"E.g. We are open daily from 9am to 6pm","wnd.pc.CookieBar.button.advancedClose":"Close","wnd.pc.CookieBar.button.advancedOpen":"Open advanced settings","wnd.pc.CookieBar.button.advancedSave":"Save","wnd.pc.CookieBar.link.disclosure":"Disclosure","wnd.pc.CookieBar.title.advanced":"Advanced settings","wnd.pc.CookieBar.title.option.functional":"Functional cookies","wnd.pc.CookieBar.title.option.marketing":"Marketing \/ third party cookies","wnd.pc.CookieBar.title.option.necessary":"Essential cookies","wnd.pc.CookieBar.title.option.performance":"Performance cookies","wnd.pc.CookieBarReopenBlock.text":"Cookies","wnd.pc.FileBlock.download":"DOWNLOAD","wnd.pc.FormBlock.action.defaultMessage.text":"The form was submitted successfully.","wnd.pc.FormBlock.action.defaultMessage.title":"Thank you!","wnd.pc.FormBlock.action.invisibleCaptchaInfoText":"This site is protected by reCAPTCHA and the Google \u003Clink1\u003EPrivacy Policy\u003C\/link1\u003E and \u003Clink2\u003ETerms of Service\u003C\/link2\u003E apply.","wnd.pc.FormBlock.action.submitBlockedDisabledBecauseSiteSecurity":"This form entry cannot be submitted (the website owner blocked your area).","wnd.pc.FormBlock.mail.value.no":"No","wnd.pc.FormBlock.mail.value.yes":"Yes","wnd.pc.FreeBarBlock.text":"Powered by","wnd.pc.ListingDetailPageZone.next":"Next","wnd.pc.ListingDetailPageZone.previous":"Previous","wnd.pc.ListingItemCopy.namePrefix":"Copy of","wnd.pc.Option.defaultText":"Other option","wnd.pc.PageCopy.namePrefix":"Copy of","wnd.pc.PhotoGalleryBlock.placeholder.text":"No images were found in this photo gallery.","wnd.pc.PhotoGalleryBlock.placeholder.title":"Photo Gallery","wnd.pc.ProductAddToCartBlock.addToCart":"Add to cart","wnd.pc.ProductAvailability.in14Days":"Available in 14 days","wnd.pc.ProductAvailability.in3Days":"Available in 3 days","wnd.pc.ProductAvailability.in7Days":"Available in 7 days","wnd.pc.ProductAvailability.inMonth":"Available in 1 month","wnd.pc.ProductAvailability.inMoreThanMonth":"Available in more than 1 month","wnd.pc.ProductAvailability.inStock":"In stock","wnd.pc.ProductGalleryBlock.placeholder.text":"No images found in this product gallery.","wnd.pc.ProductGalleryBlock.placeholder.title":"Product gallery","wnd.pc.ProductItem.button.viewDetail":"Product page","wnd.pc.ProductOptionGroupBlock.notSelected":"No variant selected","wnd.pc.ProductOutOfStockBlock.label":"Out of stock","wnd.pc.ProductPriceBlock.prefixText":"Starting at ","wnd.pc.ProductPriceBlock.suffixText":"","wnd.pc.ProductPriceExcludingVATBlock.USContent":"price excl. VAT","wnd.pc.ProductPriceExcludingVATBlock.content":"price incl. VAT","wnd.pc.ProductShippingInformationBlock.content":"excluding shipping cost","wnd.pc.ProductVATInformationBlock.content":"excl. VAT {PRICE}","wnd.pc.ProductsZone.label.collections":"Categories","wnd.pc.ProductsZone.placeholder.noProductsInCategory":"This category is empty. Assign products to it or choose another category.","wnd.pc.ProductsZone.placeholder.text":"There are no products yet. Start by clicking \u0022Add product\u0022.","wnd.pc.ProductsZone.placeholder.title":"Products","wnd.pc.ProductsZoneModel.label.allCollections":"All products","wnd.pc.SearchBlock.allListingItems":"All blog posts","wnd.pc.SearchBlock.allPages":"All pages","wnd.pc.SearchBlock.allProducts":"All products","wnd.pc.SearchBlock.allResults":"Show all results","wnd.pc.SearchBlock.iconText":"Search","wnd.pc.SearchBlock.inputPlaceholder":"I'm looking for...","wnd.pc.SearchBlock.matchInListingItemIdentifier":"Post with the term \u0022{IDENTIFIER}\u0022 in URL","wnd.pc.SearchBlock.matchInPageIdentifier":"Page with the term \u0022{IDENTIFIER}\u0022 in URL","wnd.pc.SearchBlock.noResults":"No results found","wnd.pc.SearchBlock.requestError":"Error: Unable to load more results. Please refresh the page or \u003Clink1\u003Eclick here to try again\u003C\/link1\u003E.","wnd.pc.SearchResultsZone.emptyResult":"There are no results matching your search. Please try using a different term.","wnd.pc.SearchResultsZone.foundProducts":"Products found:","wnd.pc.SearchResultsZone.listingItemsTitle":"Blog posts","wnd.pc.SearchResultsZone.pagesTitle":"Pages","wnd.pc.SearchResultsZone.productsTitle":"Products","wnd.pc.SearchResultsZone.title":"Search results for:","wnd.pc.SectionMsg.name.eshopCategories":"Categories","wnd.pc.ShoppingCartTable.label.checkout":"Checkout","wnd.pc.ShoppingCartTable.label.checkoutDisabled":"Checkout is currently not available (no shipping or payment method)","wnd.pc.ShoppingCartTable.label.checkoutDisabledBecauseSiteSecurity":"This order cannot be submitted (the store owner blocked your area).","wnd.pc.ShoppingCartTable.label.continue":"Continue shopping","wnd.pc.ShoppingCartTable.label.delete":"Delete","wnd.pc.ShoppingCartTable.label.item":"Product","wnd.pc.ShoppingCartTable.label.price":"Price","wnd.pc.ShoppingCartTable.label.quantity":"Quantity","wnd.pc.ShoppingCartTable.label.sum":"Total","wnd.pc.ShoppingCartTable.label.totalPrice":"Total","wnd.pc.ShoppingCartTable.placeholder.text":"You can change that! Pick something from the store.","wnd.pc.ShoppingCartTable.placeholder.title":"Your shopping cart is empty now.","wnd.pc.ShoppingCartTotalPriceExcludingVATBlock.label":"excl. VAT","wnd.pc.ShoppingCartTotalPriceInformationBlock.label":"Excluding shipping cost","wnd.pc.ShoppingCartTotalPriceWithVATBlock.label":"with VAT","wnd.pc.ShoppingCartTotalVATBlock.label":"VAT {RATE}%","wnd.pc.SystemFooterBlock.poweredByWebnode":"Powered by {START_LINK}Webnode{END_LINK}","wnd.pc.UserBar.logoutText":"Log out","wnd.pc.UserChangePasswordFormBlock.invalidRecoveryUrl":"The link for resetting your password has timed out. To get a new link, go to the page {START_LINK}Forgotten password{END_LINK}","wnd.pc.UserRecoveryFormBlock.action.defaultMessage.text":"You can find the link that allows you to change your password in your inbox. If you haven't received this email, please check your spam folder.","wnd.pc.UserRecoveryFormBlock.action.defaultMessage.title":"The email with instructions has been sent.","wnd.pc.UserRegistrationFormBlock.action.defaultMessage.text":"Your registration is now awaiting approval. When your registration is approved, we will inform you via email.","wnd.pc.UserRegistrationFormBlock.action.defaultMessage.title":"Thank you for registering on our website.","wnd.pc.UserRegistrationFormBlock.action.successfulRegistrationMessage.text":"Your registration was successful and you can now log in to the private pages of this website.","wnd.pm.AddNewPagePattern.onlineStore":"Online store","wnd.ps.CookieBarSettingsForm.default.advancedMainText":"You can customize your cookie preferences here. Enable or disable the following categories and save your selection.","wnd.ps.CookieBarSettingsForm.default.captionAcceptAll":"Accept all","wnd.ps.CookieBarSettingsForm.default.captionAcceptNecessary":"Accept only necessary","wnd.ps.CookieBarSettingsForm.default.mainText":"We use cookies to enable the proper functioning and security of our website, and to offer you the best possible user experience."},"fontSubset":null};</script><script>wnd.trackerConfig = {
+					events: {"error":{"name":"Error"},"publish":{"name":"Publish page"},"open_premium_popup":{"name":"Open premium popup"},"upgrade_your_plan":{"name":"Upgrade your plan"},"ml_lock_page":{"name":"Lock access to page"},"ml_unlock_page":{"name":"Unlock access to page"},"ml_start_add_page_member_area":{"name":"Start - add page Member Area"},"ml_end_add_page_member_area":{"name":"End - add page Member Area"},"ml_show_activation_popup":{"name":"Show activation popup"},"ml_activation":{"name":"Member Login Activation"},"ml_deactivation":{"name":"Member Login Deactivation"},"ml_enable_require_approval":{"name":"Enable approve registration manually"},"ml_disable_require_approval":{"name":"Disable approve registration manually"},"ml_fe_member_registration":{"name":"Member Registration on FE"},"ml_fe_member_login":{"name":"Login Member"},"ml_fe_member_recovery":{"name":"Sent recovery email"},"ml_fe_member_change_password":{"name":"Change Password"},"undoredo_click_undo":{"name":"Undo\/Redo - click Undo"},"undoredo_click_redo":{"name":"Undo\/Redo - click Redo"},"add_page":{"name":"Page adding completed"},"change_page_order":{"name":"Change of page order"},"delete_page":{"name":"Page deleted"},"background_options_change":{"name":"Background setting completed"},"add_content":{"name":"Content adding completed"},"delete_content":{"name":"Content deleting completed"},"change_text":{"name":"Editing of text completed"},"add_image":{"name":"Image adding completed"},"add_photo":{"name":"Adding photo to galery completed"},"change_logo":{"name":"Logo changing completed"},"open_pages":{"name":"Open Pages"},"show_page_cms":{"name":"Show Page - CMS"},"new_section":{"name":"New section completed"},"delete_section":{"name":"Section deleting completed"},"add_video":{"name":"Video adding completed"},"add_maps":{"name":"Maps adding completed"},"add_button":{"name":"Button adding completed"},"add_file":{"name":"File adding completed"},"add_hr":{"name":"Horizontal line adding completed"},"delete_cell":{"name":"Cell deleting completed"},"delete_microtemplate":{"name":"Microtemplate deleting completed"},"add_blog_page":{"name":"Blog page adding completed"},"new_blog_post":{"name":"New blog post created"},"new_blog_recent_posts":{"name":"Blog recent posts list created"},"e_show_products_popup":{"name":"Show products popup"},"e_show_add_product":{"name":"Show add product popup"},"e_show_edit_product":{"name":"Show edit product popup"},"e_show_collections_popup":{"name":"Show collections manager popup"},"e_show_eshop_settings":{"name":"Show eshop settings popup"},"e_add_product":{"name":"Add product"},"e_edit_product":{"name":"Edit product"},"e_remove_product":{"name":"Remove product"},"e_bulk_show":{"name":"Bulk show products"},"e_bulk_hide":{"name":"Bulk hide products"},"e_bulk_remove":{"name":"Bulk remove products"},"e_move_product":{"name":"Order products"},"e_add_collection":{"name":"Add collection"},"e_rename_collection":{"name":"Rename collection"},"e_remove_collection":{"name":"Remove collection"},"e_add_product_to_collection":{"name":"Assign product to collection"},"e_remove_product_from_collection":{"name":"Unassign product from collection"},"e_move_collection":{"name":"Order collections"},"e_add_products_page":{"name":"Add products page"},"e_add_procucts_section":{"name":"Add products list section"},"e_add_products_content":{"name":"Add products list content block"},"e_change_products_zone_style":{"name":"Change style in products list"},"e_change_products_zone_collection":{"name":"Change collection in products list"},"e_show_products_zone_collection_filter":{"name":"Show collection filter in products list"},"e_hide_products_zone_collection_filter":{"name":"Hide collection filter in products list"},"e_show_product_detail_page":{"name":"Show product detail page"},"e_add_to_cart":{"name":"Add product to cart"},"e_remove_from_cart":{"name":"Remove product from cart"},"e_checkout_step":{"name":"From cart to checkout"},"e_finish_checkout":{"name":"Finish order"},"welcome_window_play_video":{"name":"Welcome window - play video"},"e_import_file":{"name":"Eshop - products import - file info"},"e_import_upload_time":{"name":"Eshop - products import - upload file duration"},"e_import_result":{"name":"Eshop - products import result"},"e_import_error":{"name":"Eshop - products import - errors"},"e_promo_blogpost":{"name":"Eshop promo - blogpost"},"e_promo_activate":{"name":"Eshop promo - activate"},"e_settings_activate":{"name":"Online store - activate"},"e_promo_hide":{"name":"Eshop promo - close"},"e_activation_popup_step":{"name":"Eshop activation popup - step"},"e_activation_popup_activate":{"name":"Eshop activation popup - activate"},"e_activation_popup_hide":{"name":"Eshop activation popup - close"},"e_deactivation":{"name":"Eshop deactivation"},"e_reactivation":{"name":"Eshop reactivation"},"e_variant_create_first":{"name":"Eshop - variants - add first variant"},"e_variant_add_option_row":{"name":"Eshop - variants - add option row"},"e_variant_remove_option_row":{"name":"Eshop - variants - remove option row"},"e_variant_activate_edit":{"name":"Eshop - variants - activate edit"},"e_variant_deactivate_edit":{"name":"Eshop - variants - deactivate edit"},"move_block_popup":{"name":"Move block - show popup"},"move_block_start":{"name":"Move block - start"},"publish_window":{"name":"Publish window"},"welcome_window_video":{"name":"Video welcome window"},"cookiebar_show":{"name":"Cookiebar was shown"},"cookiebar_accept_all":{"name":"User accepted all cookies"},"cookiebar_accept_necessary":{"name":"User accepted necessary cookies"}},
+					data: {"user":{"u":0,"p":50092547,"lc":"GH","t":"1"},"action":{"identifier":"","name":"","category":"project","platform":"WND2","version":"2-1769_2-1769"},"browser":{"url":"https:\/\/bl41z3.webnode.page\/","ua":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/131.0.0.0 Safari\/537.36 Edg\/131.0.0.0","referer_url":"","resolution":"","ip":"154.161.151.180"}},
+					urlPrefix: "https://events.webnode.com/projects/-/events/",
+					collection: "PROD",
+				}</script>
+
+</body></html>
